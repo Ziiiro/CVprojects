@@ -47,7 +47,7 @@ class handPlay():
         self.mp_hands = mp.solutions.hands
 
         # mqtt
-        self.broker = '192.168.1.165'
+        self.broker = '192.168.2.11'
         self.mqtt_port = 1883
         self.mqtt_topic = "jetson/atv/pause"
         # generate client ID with pub prefix randomly
