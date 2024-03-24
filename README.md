@@ -1,32 +1,28 @@
-# 计算机视觉小项目
+# Computer vision projects
 
-> 请仅做个人学习、研究使用
+### 1.Demo
 
+* [网页版抖音](https://www.douyin.com/user/MS4wLjABAAAAPIrmWhFY-OHt5X8GZcHGqwDo3J29gYHcgG-QebKIDd4Wu_f4dwM2hNoEYyQBcim2?enter_from=search_result&enter_method=search_result&extra_params=%7B%22search_params%22%3A%7B%22search_type%22%3A%22user%22%2C%22search_id%22%3A%22202111241756340101512071374A007D0F%22%2C%22search_keyword%22%3A%22enpe%22%2C%22search_result_id%22%3A%221205502393189652%22%7D%7D)
+* [网页版B站](https://space.bilibili.com/1355276754)
 
+### 2. Projects list
 
-### 一、微信答疑、交流：
-
-<img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/imgIMG_5862.JPG?x-oss-process=style/wp" style="width:200px;" />
-
-### 二、观看项目实际运行视频：
-
-| 抖音                                                         | B站                                                          | 快手                                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/imgIMG_5859.JPG?x-oss-process=style/wp" style="width:200px" /><br/><br />[网页版抖音](https://www.douyin.com/user/MS4wLjABAAAAPIrmWhFY-OHt5X8GZcHGqwDo3J29gYHcgG-QebKIDd4Wu_f4dwM2hNoEYyQBcim2?enter_from=search_result&enter_method=search_result&extra_params=%7B%22search_params%22%3A%7B%22search_type%22%3A%22user%22%2C%22search_id%22%3A%22202111241756340101512071374A007D0F%22%2C%22search_keyword%22%3A%22enpe%22%2C%22search_result_id%22%3A%221205502393189652%22%7D%7D) | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/imgIMG_7117.PNG?x-oss-process=style/wp" ><br>[网页版B站](https://space.bilibili.com/1355276754) | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/imgIMG_5858.JPG?x-oss-process=style/wp" style="width:200px" /><br/>[网页版快手](https://www.kuaishou.com/profile/3x54fkprp4xtu4a) |
-
-### 三、C++ 项目列表
-
-| 项目名称                            | 截图                                                         | 代码地址                                                     |
-| ----------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| C++ Deepstream TensorRT多流检测追踪 | ![](https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img202304061135614.png?x-oss-process=style/wp) | [cpp_projs/2.deepstream_detect_track](https://github.com/enpeizhao/CVprojects/tree/main/cpp_projs/2.deepstream_detect_track) |
-| C++ YOLOV5 TensorRT 人员闯入和聚众  | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img202303171105294.png?x-oss-process=style/wp" > | [cpp_projs/1.people_cross_gather](https://github.com/enpeizhao/CVprojects/tree/main/cpp_projs/1.people_cross_gather) |
+| Title                                                        | Snapshot                                                     | Language   | Code Link                                                    |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
+| Vision Tachometer  (Interstellar  Endurance rotation' speed estimation) | ![](https://enpei-md.oss-cn-hangzhou.aliyuncs.com/202401131157240.png?x-oss-process=style/wp) | Python/C++ | [2024_projects/1.vision_tachometer](https://github.com/enpeizhao/CVprojects/tree/main/2024_projects/1.vision_tachometer) |
 
 
 
-### 四、Python 项目列表
+### 3. Archived
 
 | 名称与在线播放地址                                           | 截图                                                         | 代码地址                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| C++ Deepstream TensorRT多流检测追踪                          | ![](https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img202304061135614.png?x-oss-process=style/wp) | [cpp_projs/2.deepstream_detect_track](https://github.com/enpeizhao/CVprojects/tree/main/cpp_projs/2.deepstream_detect_track) |
+| C++ YOLOV5 TensorRT 人员闯入和聚众                           | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img202303171105294.png?x-oss-process=style/wp" > | [cpp_projs/1.people_cross_gather](https://github.com/enpeizhao/CVprojects/tree/main/cpp_projs/1.people_cross_gather) |
+| Yolov8物体关键点（文具、螺栓）                               | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/202311291510322.png?x-oss-process=style/wp" style="width:200px;" /> | [ 4.Yolov8物体关键点（文具、螺栓）](https://enpeicv.com/forum.php?mod=viewthread&tid=116&extra=page%3D1) |
+| ReID行人重识别跨境头搜人                                     | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/202310291901939.png?x-oss-process=style/resize" style="width:200px;" /> | [查看代码](https://enpeicv.com/forum.php?mod=viewthread&tid=108&extra=page%3D1) |
+| SAM测量不规则图形面积                                        | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img202309031100380.png?x-oss-process=style/wp" style="width:200px;" /> | [查看代码](https://enpeicv.com/forum.php?mod=viewthread&tid=90&extra=page%3D1) |
+| 寻找早晨去上班的最佳出发时间                                 | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img202308121213266.png?x-oss-process=style/wp" style="width:200px;" /> | [codes/34.yolov8_track](https://enpeicv.com/forum.php?mod=viewthread&tid=84&extra=page%3D1) |
 | 33.旋转目标检测车位检测                                      | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img202306171012021.png?x-oss-process=style/wp" style="width:200px;" /> | [codes/33.旋转目标检测车位检测](https://github.com/enpeizhao/CVprojects/tree/main/codes/33.rotate_obj_det_park) |
 | 32.realsense dobot 机械臂视觉抓取                            | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img202306090924832.png?x-oss-process=style/wp" style="width:200px;" /> | [codes/32.realsense dobot 机械臂视觉抓取](https://github.com/enpeizhao/CVprojects/tree/main/codes/32.realsense_dobot) |
 | 31.StyleGAN人脸编辑                                          | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20221103101533.png?x-oss-process=style/wp" style="width:200px;" > | [codes/31.StyleGAN人脸编辑](https://github.com/enpeizhao/CVprojects/tree/main/codes/31.StyleGAN%E4%BA%BA%E8%84%B8%E7%BC%96%E8%BE%91) |
@@ -55,4 +51,3 @@
 | [7.虚拟拖放 Python + opencv](https://www.douyin.com/video/7033012599729999137?modeFrom=userPost&secUid=MS4wLjABAAAAPIrmWhFY-OHt5X8GZcHGqwDo3J29gYHcgG-QebKIDd4Wu_f4dwM2hNoEYyQBcim2) | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20211120135236.png?x-oss-process=style/wp" style="width:200px;" /> | [codes/7.virtual_drag_drop.py](https://github.com/enpeizhao/CVprojects/blob/main/codes/7.virtual_drag_drop) |
 | [6.Python手势控制电脑音量](https://www.douyin.com/video/7031539631594163469?modeFrom=userPost&secUid=MS4wLjABAAAAPIrmWhFY-OHt5X8GZcHGqwDo3J29gYHcgG-QebKIDd4Wu_f4dwM2hNoEYyQBcim2) | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20211120135209.png?x-oss-process=style/wp" style="width:200px;" /> | [codes/6.hand_control_volume.py](https://github.com/enpeizhao/CVprojects/blob/main/codes/6.hand_control_volume) |
 | [5.手势暂停、播放电视](https://www.douyin.com/video/7016958202713771278?modeFrom=userPost&secUid=MS4wLjABAAAAPIrmWhFY-OHt5X8GZcHGqwDo3J29gYHcgG-QebKIDd4Wu_f4dwM2hNoEYyQBcim2) | <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/imgIMG_5885.jpg?x-oss-process=style/wp" style="width:200px" /> | [codes/5.hand_pause_atv/handRemote.py](https://github.com/enpeizhao/CVprojects/blob/main/codes/5.hand_pause_atv/ ) |
-
